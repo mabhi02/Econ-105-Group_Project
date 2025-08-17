@@ -6,8 +6,8 @@ Main Submission:
 
 project.ipynb within the root contains our work. The data sources are within Data.csv
 
-Streamlit Link:
+Streamlit Link: https://econ105-abhijith-niaz.streamlit.app/
 
 Extra Credit Components:
 Machine Learning Co2 prediction; Linear Regression, Random Forrest Regression, Feature Extraction, Convolutional Neural Network
-React Dashboard that is deplayed at 
+React Dashboard that is deplayed at https://econ-avm-niaz.netlify.app/
