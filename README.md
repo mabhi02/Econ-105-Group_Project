@@ -8,6 +8,6 @@ project.ipynb within the root contains our work. The data sources are within Dat
 
 Streamlit Link: https://econ105-abhijith-niaz.streamlit.app/
 
-Extra Credit Components:
-Machine Learning Co2 prediction; Linear Regression, Random Forrest Regression, Feature Extraction, Convolutional Neural Network
-React Dashboard that is deplayed at https://econ-avm-niaz.netlify.app/
+# Extra Credit Components:
+**Machine Learning Co2 prediction** Linear Regression, Random Forrest Regression, Feature Extraction, Convolutional Neural Network
+**React Dashboard** https://econ-avm-niaz.netlify.app/
