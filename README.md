@@ -1,0 +1,13 @@
+# Climate Change Analysis: Comparative Study
+
+**Team Members:** Abhijith Varma Mudunuri & Niaz Namdar
+
+Main Submission:
+
+project.ipynb within the root contains our work. The data sources are within Data.csv
+
+Streamlit Link:
+
+Extra Credit Components:
+Machine Learning Co2 prediction; Linear Regression, Random Forrest Regression, Feature Extraction, Convolutional Neural Network
+React Dashboard that is deplayed at 
